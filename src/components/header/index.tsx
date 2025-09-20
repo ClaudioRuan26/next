@@ -20,6 +20,11 @@ export function Header() {
                                 Posts
                             </Link>
                         </li>
+                        <li>
+                            <Link href="/dashboard">
+                                Dashboard
+                            </Link>
+                        </li>
                     </ul>
                 </nav>
             </div>
